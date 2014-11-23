@@ -1,0 +1,15 @@
+*.pyc
+.svn
+#/.svn/
+#*/.svn/*
+src/media
+Trackstore
+cscope.*
+.tags*
+.config/
+logs/
+node_modules/
+npm-debug.log
+src/manage.py
+src/node_modules/
+
